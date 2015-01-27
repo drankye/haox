@@ -14,7 +14,9 @@ Haox aims for a Java Kerberos binding, and provides richful, inituitive and inte
 + Least dependency, the core part is ensured to depend only on JRE, for easy use and maintain.
 
 ### Update
-We’re collaborating with ApacheDS community and preparing this project to be ready for a sub project. Feedback is welcome.
+Haox project was contributed to ApacheDS community as a sub-project named as "Apache Kerby". It's still ongoing, ref.
+https://issues.apache.org/jira/browse/DIRKRB-102
+Contribution is welcome.
 
 ### Status
 As follows, with the core and critical parts done, important features are still ongoing.
