@@ -1,4 +1,4 @@
-Haox (now [Apache Kerby](https://github.com/drankye/directory-kerby))
+Haox (now [Apache Kerby](https://github.com/apache/directory-kerby))
 ====
 
 Haox aims for a Java Kerberos binding, and provides richful, inituitive and interoperable implementation, library and various facilities that integrate Kerberos, PKI and token (OAuth) as desired in modern environments such as mobile, cloud and Hadoop. 
